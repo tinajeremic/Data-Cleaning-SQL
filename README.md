@@ -1,11 +1,12 @@
-# 📊 Data Cleaning: World Layoffs Dataset
+# 📊 Data Cleaning and Analysis: World Layoffs Dataset
 
 ## 📝 Project Overview  
-This project focuses on cleaning a dataset of recorded layoffs from various global companies. The raw data contained inconsistencies such as missing values, duplicate records and formatting issues. Using SQL, I performed data cleaning to ensure accuracy, consistency and usability for further analysis.  
+This project focuses on cleaning and analyzing a dataset of recorded layoffs from various global companies. The raw data contained inconsistencies such as missing values, duplicate records and formatting issues. Using SQL, I performed data cleaning to ensure accuracy, consistency and usability for further analysis.  
 
 ## 📂 Files in this Repository  
-- **`data_cleaning_project.sql`** → SQL script for data cleaning  
-- **`layoffs.csv`** → Original dataset  
+- `data_cleaning_project.sql` → SQL script for data cleaning
+- `exploratory_data_project.sql` → SQL script for data analysis
+- `layoffs.csv` → Original dataset  
 
 ## 🔍 Data Cleaning Steps  
 ### ✅ Issues in the Raw Data  
